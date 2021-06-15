@@ -14,6 +14,7 @@ My name is Ryam Sousa.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" height="20" width="20">
+<img src="https://imgur.com/cVh6MQl"><img src="https://i.imgur.com/cVh6MQl.png" alt="java" height="20" width="20">
 </p>
 
 <br>
