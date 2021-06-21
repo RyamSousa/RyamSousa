@@ -15,10 +15,7 @@ My name is Ryam Sousa.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" height="20" width="20">
 <img src="https://i.imgur.com/cVh6MQl.png" alt="postgresql"height="20" width="20">
-</p>
-https://imgur.com/cVh6MQl"><img src="https://i.imgur.com/cVh6MQl.png
 
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ryam%20Sousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryamsousa/)](https://www.linkedin.com/in/ryamsousa/)
 [![Gmail Badge](https://img.shields.io/badge/-ryam.sousa123@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:ryam.sousa123@gmail.com)
