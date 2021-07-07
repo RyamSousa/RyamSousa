@@ -3,18 +3,16 @@
 My name is Ryam Sousa.
 
 - 😄 i'm a student of Tecnology of information since 2020.
-- 📚 I'm  begining in development web. i'm study at the moment Java, JavaScript, NodeJS, ReactJS, EJS, API Rest.
+- 📚 I'm  begining in development web. i'm study at the moment API Rest, Java, Sping boot, PostgreSQL.
 
 <br>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" height="20" width="20">
-<img src="https://i.imgur.com/cVh6MQl.png" alt="postgresql"height="20" width="20">
+<img src="https://i.imgur.com/cVh6MQl.png" alt="postgresql" height="20" width="20">
+<img src="https://i.imgur.com/IvEeslC.png" alt="spring-boot" height="20" width="20" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ryam%20Sousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryamsousa/)](https://www.linkedin.com/in/ryamsousa/)
