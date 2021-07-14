@@ -29,7 +29,7 @@ My name is Ryam Sousa.
 >
 ><p>The backend was to make in Java, Spring Data, OpenAPI and postgres. The frontend was to make in Angular and TypeScript</p>
 
->Status: Done ✅ 
+>Status: Done :heavy_check_mark:
 
 ```
 Backend: https://github.com/RyamSousa/Java-SpringData-Backend
@@ -45,9 +45,8 @@ Frontend: https://github.com/RyamSousa/Angular-TypeScript-Frontend
 ## JobsCalc
 <p>It is a Rest API developed during bootcamp of the company santander technologies, together with the Digital innovation one. Other than that, i added
 features and technologies to better complete the project.</p>
->
 
->Status: Done ✅ 
+>Status: Done :heavy_check_mark:
 
 ```
 https://github.com/RyamSousa/accessPoint
