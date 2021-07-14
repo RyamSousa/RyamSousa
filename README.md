@@ -37,9 +37,9 @@ Backend: https://github.com/RyamSousa/Java-SpringData-Backend
 Frontend: https://github.com/RyamSousa/Angular-TypeScript-Frontend
 ```
 <h1 align="center">
-  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/5Ilis6F.png" width="1000px" height="900px" />
+  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/5Ilis6F.png" width="1000px" height="700px" />
   <br>
-  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/MAtjTC6.png" width="1000px" height="900px" />
+  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/MAtjTC6.png" width="1000px" height="700px" />
 </h1>
 
 ## JobsCalc
@@ -53,7 +53,7 @@ features and technologies to better complete the project.</p>
 https://github.com/RyamSousa/accessPoint
 ```
 <h1 align="center">  
- <img src="https://i.imgur.com/JB4YX9Z.png" title="source: imgur.com" heigth="1000px" width="900px"/>
+ <img src="https://i.imgur.com/JB4YX9Z.png" title="source: imgur.com" heigth="700px" width="1000px"/>
   <br>
- <img src="https://i.imgur.com/Wlj6jT7.png" title="source: imgur.com" heigth="1000px" width="900px"/>
+ <img src="https://i.imgur.com/Wlj6jT7.png" title="source: imgur.com" heigth="700px" width="1000px"/>
 </h1>
