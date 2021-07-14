@@ -37,23 +37,23 @@ Backend: https://github.com/RyamSousa/Java-SpringData-Backend
 Frontend: https://github.com/RyamSousa/Angular-TypeScript-Frontend
 ```
 <h1 align="center">
-  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/5Ilis6F.png" width="1098px" height="500px" />
+  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/5Ilis6F.png" width="1000px" height="900px" />
   <br>
-  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/MAtjTC6.png" width="1098px" height="500px" />
+  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/MAtjTC6.png" width="1000px" height="900px" />
 </h1>
 
 ## JobsCalc
-><p>The project was developed at the Discover Marathon, tecnology event promoted by Rocketseat. The project is a plataform for freelancers project manager your project, having the control of your prices, work of time and all projects they are working on.</p>
+<p>It is a Rest API developed during bootcamp of the company santander technologies, together with the Digital innovation one. Other than that, i added
+features and technologies to better complete the project.</p>
 >
-><p>Is a backend developed in Nodejs and EJS and MySql</p>
 
->Status: Developing ⚠️
+>Status: Done ✅ 
 
 ```
-https://github.com/RyamSousa/JobsCalc
+https://github.com/RyamSousa/accessPoint
 ```
-<h1 align="center">
-  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/5FAOk35.png" width="1098px" height="500px" />
+<h1 align="center">  
+ <img src="https://i.imgur.com/JB4YX9Z.png" title="source: imgur.com" heigth="1000px" width="900px"/>
   <br>
-  <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/T5RSZ57.png" width="1098px" height="500px" />
+ <img src="https://i.imgur.com/Wlj6jT7.png" title="source: imgur.com" heigth="1000px" width="900px"/>
 </h1>
