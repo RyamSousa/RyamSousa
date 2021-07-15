@@ -3,7 +3,7 @@
 My name is Ryam Sousa.
 
 - 😄 i'm a student of Tecnology of information since 2020.
-- 📚 I'm  begining in development web. i'm study at the moment API Rest, Java, Sping boot, PostgreSQL.
+- 📚 I'm  begining in development web. i'm study at the moment API Rest, Java, Sping framework, PostgreSQL, Elasticsearch.
 
 <br>
 
@@ -11,7 +11,6 @@ My name is Ryam Sousa.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" height="20" width="20">
 <img src="https://i.imgur.com/cVh6MQl.png" alt="postgresql" height="20" width="20">
 <img src="https://i.imgur.com/IvEeslC.png" alt="spring-boot" height="20" width="20" />  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 
 
@@ -42,7 +41,7 @@ Frontend: https://github.com/RyamSousa/Angular-TypeScript-Frontend
   <img alt="Cotations screen" title="JobsCalc" src="https://i.imgur.com/MAtjTC6.png" width="1000px" height="700px" />
 </h1>
 
-## JobsCalc
+## Access Point Management system
 <p>It is a Rest API developed during bootcamp of the company santander technologies, together with the Digital innovation one. Other than that, i added
 features and technologies to better complete the project.</p>
 
