@@ -3,7 +3,7 @@
 My name is Ryam Sousa.
 
 - 😄 i'm a student of Tecnology of information since 2020.
-- 📚 I'm  begining in development web. i'm study at the moment API Rest, Java, Sping framework, PostgreSQL, Elasticsearch.
+- 📚 I'm  begining in development web. i'm study at the moment API Rest, Java, Sping framework and PostgreSQL.
 
 <br>
 
