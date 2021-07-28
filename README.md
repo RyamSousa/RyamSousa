@@ -1,11 +1,12 @@
 # Hello everyone 👋
 
->My name is Ryam Sousa.
+>My name is Ryam Sousa. :smiley:
 
 <p>
 
 >I graduated in the area of Computer Technician and currently studying 
->the Information Technology course. I am an aspiring software developer and     >study web development, more specifically on the backend. 
+>the Information Technology course. I am an aspiring software developer and     
+>study web development, more specifically on the backend. 
 
 </p>
 <p>
