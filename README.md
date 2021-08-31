@@ -20,11 +20,12 @@
   <img align="left" alt="java" width="70px" src="https://i.imgur.com/3e0vBla.jpg" title="source: imgur.com" />
   <img align="left" alt="spring framework" width="83px" src="https://i.imgur.com/9eA4qSK.jpg" title="source: imgur.com" />
   <img align="left" alt="postgres" width="61px" src="https://i.imgur.com/GAp5WHo.jpg" title="source: imgur.com" />
-  <img align="left" alt="c" width="68px" src="https://i.imgur.com/kYBx6ky.jpg" title="source: imgur.com" />  
+  <img align="left" alt="c" width="68px" src="https://i.imgur.com/kYBx6ky.jpg" title="source: imgur.com" />    
   <img align="left" alt="git" width="61px" src="https://i.imgur.com/9yeL0a9.jpg" title="source: imgur.com" />
+  <br/><br/><br/><br/>
   <img align="left" alt="github" width="105px" src="https://i.imgur.com/BtsGXWM.jpg" title="source: imgur.com" />
   <img align="left" alt="react" width="110px" src="https://i.imgur.com/Bbqf3hb.jpg" title="source: imgur.com" />
   <img align="left" alt="node" width="61px" src="https://i.imgur.com/Ws2opPM.png" title="source: imgur.com" />
-  <img align="" alt="unity" width="103px" src="https://i.imgur.com/Hp36SWZ.png" title="source: imgur.com" />
+  <img align="left" alt="unity" width="103px" src="https://i.imgur.com/Hp36SWZ.png" title="source: imgur.com" />
 </p>
 
