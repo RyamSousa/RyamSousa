@@ -19,7 +19,6 @@
 <p>
   <img align="left" alt="java" width="70px" src="https://i.imgur.com/3e0vBla.jpg" title="source: imgur.com" />
   <img align="left" alt="spring framework" width="83px" src="https://i.imgur.com/9eA4qSK.jpg" title="source: imgur.com" />
-  <img align="left" alt="aws" width="125px" src="https://i.imgur.com/fh1wmtk.png" title="source: imgur.com" />
   <img align="left" alt="postgres" width="61px" src="https://i.imgur.com/GAp5WHo.jpg" title="source: imgur.com" />
   <img align="left" alt="c" width="68px" src="https://i.imgur.com/kYBx6ky.jpg" title="source: imgur.com" />  
   <img align="left" alt="git" width="61px" src="https://i.imgur.com/9yeL0a9.jpg" title="source: imgur.com" />
