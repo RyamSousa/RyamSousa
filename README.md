@@ -25,6 +25,6 @@
   <img align="left" alt="github" width="105px" src="https://i.imgur.com/BtsGXWM.jpg" title="source: imgur.com" />
   <img align="left" alt="react" width="110px" src="https://i.imgur.com/Bbqf3hb.jpg" title="source: imgur.com" />
   <img align="left" alt="node" width="61px" src="https://i.imgur.com/Ws2opPM.png" title="source: imgur.com" />
-  <img align="left" alt="unity" width="103px" src="https://i.imgur.com/Hp36SWZ.png" title="source: imgur.com" />
+  <img align="" alt="unity" width="103px" src="https://i.imgur.com/Hp36SWZ.png" title="source: imgur.com" />
 </p>
 
