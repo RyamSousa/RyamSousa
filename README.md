@@ -1,4 +1,4 @@
-# Hello everyone 😃
+# Hi everyone 😃
 
 My name is Ryam Sousa.
 
