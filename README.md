@@ -9,7 +9,7 @@ the Information Technology course. I am junior developer at VILT.
   ##
   
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ryamsousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryamsousa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=15"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryamsousa&layout=compact&langs_count=7&theme=chartreuse-dark&border_radius=15"/>
 </div>
