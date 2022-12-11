@@ -3,7 +3,7 @@
 My name is Ryam Sousa.
 
 I graduated in the area of Computer Technician and currently studying 
-the Information Technology course. I am junior developer at VILT.
+the Information Technology course. I'm a developer at VILT.
 
   
   ##
